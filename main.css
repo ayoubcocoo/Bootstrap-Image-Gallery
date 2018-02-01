@@ -1,0 +1,13 @@
+body{
+margin-top: 75px;
+}
+
+.glyphicon .glyphicon-picture{
+  font-size: 30px;
+  color: white;
+
+}
+img {
+    width: 100%;
+    height: 200px;
+  }
